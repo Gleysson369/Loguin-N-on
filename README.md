@@ -1,7 +1,10 @@
 # Loguin-Neon
 
-![image](https://user-images.githubusercontent.com/66035697/156380076-05a0467c-b3da-497f-a658-2d973a6998fb.png)
+______________________________________________________________________________________________________
 
+![03 03 2022_10 51 14_REC](https://user-images.githubusercontent.com/66035697/156578810-b73a34d5-13d1-443b-877b-53abfacafef4.gif)
+
+______________________________________________________________________________________________________
 
 <h1 align="center">Hi 👋, I'm Gleysson Flávio Gomes de Souza</h1>
 <h3 align="center">A passionate frontend developer from Brasil.</h3>
